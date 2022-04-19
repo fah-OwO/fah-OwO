@@ -1,5 +1,6 @@
 # Hi there 👋
 Welcome to fah-OwO 's github. My name is Fah. <br>
+<!--
 I'm a Computer engineering student . <br>
 Most of my github repositorie is for better experience for gaming or simping. <br>
 Let me introduce some of my repositories
