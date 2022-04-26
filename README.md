@@ -14,7 +14,11 @@ spammed click. using mouse button 4/5 (side mouse button) for controling clicker
 ### [youtube live translate chat collector](https://github.com/fah-OwO/youtube-live-translate-chat-collector)
 collect chat with something like [EN] or (en) and show on screen.
 ### [screen zoomer](https://github.com/fah-OwO/Screen-zoomer-using-python-with-adjustable)
-java with screen zoomer with 2ms delay. another version of python is zoom adjustable.
+java with screen zoomer with 2ms delay. another version of python is zoom adjustable.-->
+<!-- ### Stats -->
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=fah-OwO&hide=contribs,prs,issues&theme=prussian&bg_color=0d1117&show_icons=true&hide_border=true&include_all_commits=true)" alt="fah-OwO's GitHub stats"></img>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fah-OwO&layout=compact&theme=prussian&bg_color=0d1117&show_icons=true&hide_border=true&custom_title=Most%20Used%20Languages%20Over%20All" alt="Top Langs"></img><!-- ### Most Used Languages Exclude 1 repo ([Ghost-s-dream](https://github.com/fah-OwO/Ghost-s-dream)) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fah-OwO&layout=compact&theme=prussian&bg_color=0d1117&show_icons=true&hide_border=true&exclude_repo=Ghost-s-dream&custom_title=Most%20Used%20Exclude%20Ghost-s-dream)](https://github.com/fah-OwO/Ghost-s-dream) -->
 <!--
 **fah-OwO/fah-OwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
