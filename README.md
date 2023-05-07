@@ -3,6 +3,11 @@ Welcome to fah-OwO 's github. My name is Fah.\
 Most of my github repositories are focused on enhancing gaming, simping or providing practical applications.\
 Let me introduce some of my repositories
 
+## currently working on
+
+### [virtual keyboard using hand tracking](https://github.com/fah-OwO/miniProject/tree/main/try_mediapipe)
+now they can track hand and create plane
+## finished project
 ### [Ghost's dream (game)](https://github.com/fah-OwO/Ghost-s-dream)
 game with 3D perspective but create from 2d Image by resizing and relocating. part of Program Methodology class. playable at [itch.io](https://fahh.itch.io/ghosts-dream)
 ### [fast translator](https://github.com/fah-OwO/realtime-auto-translate-using-clipboard)
