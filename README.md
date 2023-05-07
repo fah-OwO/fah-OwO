@@ -4,7 +4,7 @@ Most of my github repositories are focused on enhancing gaming, simping or provi
 Let me introduce some of my repositories
 
 ### [Ghost's dream (game)](https://github.com/fah-OwO/Ghost-s-dream)
-game with 3D perspective but create from 2d Image by resizing and relocating. path of Program Methodology class. playable at itch.io
+game with 3D perspective but create from 2d Image by resizing and relocating. part of Program Methodology class. playable at [itch.io](https://fahh.itch.io/ghosts-dream)
 ### [fast translator](https://github.com/fah-OwO/realtime-auto-translate-using-clipboard)
 ctrl+c your selected sentence/word to translate it.
 ### [mouse 4 clicker](https://github.com/fah-OwO/mouse4_clicker)
